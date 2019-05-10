@@ -1,0 +1,27 @@
+body {
+  background-color: limegreen;
+  border: 5px solid black;
+  padding: 20px;
+  margin: 0 auto;
+}
+
+html {
+  background-color: blue;
+  margin: 0 375px
+}
+
+img {
+  Border-radius: 100%;
+  margin: 0 auto;
+  border: 20px groove yellow;
+  display: block;
+
+}
+
+#first {
+  color: blue;
+}
+
+#second {
+  color: red;
+}
