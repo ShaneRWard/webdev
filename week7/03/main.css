@@ -1,0 +1,46 @@
+nav, ul, li, main, p {
+    padding: 0;
+    border: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 20px auto;
+    border: 2px solid pink;
+}
+
+nav {
+    width: 100%; 
+    border: 2px solid red;
+}
+
+main {
+    width: 100%;
+    padding: 10px;
+    border: 2px solid red;
+}
+
+ul {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+li {
+    list-style: none;
+    padding: 10px 25px;
+}
+
+a {
+    text-decoration: none;
+}
+
+p {
+    margin-bottom: 10px;
+}

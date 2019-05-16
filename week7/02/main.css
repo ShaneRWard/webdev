@@ -1,0 +1,44 @@
+body {
+    font-size: 20px;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    height: 45rem;
+    border: 1px dashed red;
+    margin: 0;
+}
+
+div {
+    width: 400px;
+    margin: 0 auto;
+    padding: 4rem;
+    border: 1px solid black;
+}
+
+.flex1 {
+    flex-grow: 2;
+    width: 100%;
+    background-color: salmon;
+}
+
+.flex2 {
+    flex-grow: 5;
+    background-color: lightskyblue;
+}
+
+.flex3 {
+    flex-grow: 1;
+    background-color: lightgreen;
+}
+
+.flex4 {
+    flex-grow: 2;
+    background-color: rgb(245, 245, 61);
+}
+
+.flex5 {
+    flex-grow: 2;
+    background-color:rgb(195, 149, 216);
+}

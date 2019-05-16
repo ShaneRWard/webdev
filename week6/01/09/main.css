@@ -1,0 +1,15 @@
+body {
+    height: 45rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: flex-end;
+    border: 1px solid red;
+}
+
+div {
+    background-color: salmon;
+    padding: 2rem;
+    margin: 1rem;
+    border: 1px solid black
+}

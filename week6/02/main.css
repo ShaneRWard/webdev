@@ -1,0 +1,24 @@
+body {
+    height: 45rem;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-start;
+    align-content: flex-start;
+    border: 1px solid red;
+}
+
+div {
+    font-size: 2rem;
+    text-align: center;
+    background-color: salmon;
+    width: 6rem;
+    height: 4rem;
+    padding: 2rem;
+    margin: 1rem;
+    border: 1px solid black;
+    flex-grow: 1;
+}
+
+#grow2 {
+    flex-grow: 2;
+}
