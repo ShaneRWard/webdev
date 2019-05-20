@@ -1,0 +1,29 @@
+body {
+    font-weight: bold;
+}
+
+header, article, aside, footer {
+    padding: 10px;
+    text-align: center;
+}
+
+header {
+    background: lightcoral;
+}
+
+article {
+    text-align: left;
+    background: cyan;
+}
+
+aside:nth-child(3) {
+    background: yellow;
+}
+
+aside:nth-child(4) {
+    background: hotpink;
+}
+
+footer {
+    background: lightgreen;
+}
