@@ -2,8 +2,8 @@ div {
     font-size: 17px;
     margin: 20px;
     padding: 10px;
-    height: 250px;
     border: 1px solid red;
+    overflow: auto;
 }
 
 img {
