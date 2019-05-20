@@ -1,0 +1,21 @@
+div {
+    font-size: 17px;
+    margin: 20px;
+    padding: 10px;
+    height: 250px;
+    border: 1px solid red;
+}
+
+img {
+    height: 50%;
+    margin: 20px;
+    border: 1px solid red;
+}
+
+#one {
+    float: right;
+}
+
+#two {
+    float: left;
+}

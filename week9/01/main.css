@@ -1,0 +1,13 @@
+div {
+    height: 100px;
+    width: 100px;
+    background-color: rgba(100, 100, 0, 1);
+    border: 1px solid black;
+}
+
+#relative {
+    position: relative;
+    top: 15px;
+    left: 15px;
+    background-color: rgba(50, 0, 50, .5)
+}
